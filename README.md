@@ -9,9 +9,9 @@
 - 📫 Свяжитесь со мной: [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sh1zo1).
 
 
-Языки и инструменты:
+## Языки и инструменты:
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF9900?style=flat-square&logo=python&logoColor=white)   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)square&logo=python&logoColor=white)    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)square&logo=postgresql&logoColor=white)    ![NLP](https://img.shields.io/badge/-NLP-00BFFF?style=flat-square&logo=nlp&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF9900?style=flat-square&logo=python&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white), ![NLP](https://img.shields.io/badge/-NLP-00BFFF?style=flat-square&logo=nlp&logoColor=white)
 
 ## GitHub Статистика
 
